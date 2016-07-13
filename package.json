@@ -1,0 +1,11 @@
+{
+  "name": "vst-spa-startup",
+  "version": "1.0.0",
+  "description": "Veisite SPA application startup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose Maria Perez",
+  "license": "ISC"
+}
