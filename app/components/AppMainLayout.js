@@ -8,9 +8,9 @@ export default class AppMainLayout extends React.Component {
       <div>
         <AppNavBar {...this.props} />
 
-	    <div className="container">
-	      {this.props.children}
-	    </div>
+	      <div className="container">
+	        {this.props.children}
+	      </div>
 	    
 	  </div>
     );
